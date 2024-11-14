@@ -1,3 +1,0 @@
-Data Streaming exercise
-We are learning how to stream data 
-This is a lot of fun!!!
